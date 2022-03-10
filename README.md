@@ -26,7 +26,7 @@ Loops are used with brackets. If you reach an open bracket, what is within will 
 This example loops printing 1 to -1.
 
 ### Printing
-If you want to print a character to the console, just use `.` to print the char version of the text. And by writing a char in the code the current cell will turn
+If you want to print a character to the console, just use `.` to print the char version of the cell value. And by writing a char in the code the current cell will turn
 to that chars value. The `.` operator will print the active cell, the next cell, and so on until it reaches a cell with the value 0 in it.
 **Example**
 `h.i.%`
